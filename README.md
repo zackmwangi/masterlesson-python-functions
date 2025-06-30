@@ -8,7 +8,7 @@ A quick primer on Python functions
 ## See Lesson slides here [here >>](https://docs.google.com/presentation/d/1Rh-yDIyc7CHxj0Ds02BVXNragT_yBDUkcod8lekasvo/edit?usp=drive_link)
 
 
-
+### how to run
 ```sh
 python main.py
 ```
