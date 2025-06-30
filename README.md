@@ -3,6 +3,8 @@ A quick primer on Python functions
 
 ## Lesson by Zack Mwangi as an intro to python for beginners
 
+## Lesson slides here [here](link)
+
 ```sh
 python main.py
 ```
