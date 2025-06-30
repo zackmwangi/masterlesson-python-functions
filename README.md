@@ -1,9 +1,6 @@
 # masterlesson-python-functions
 A quick primer on Python functions
 
-### Repo URL: https://github.com/zackmwangi/masterlesson-python-functions(https://github.com/zackmwangi/masterlesson-python-functions)
-
-
 ## Lesson by Zack Mwangi as an intro to python for beginners 
 
 ## Video [link >>](https://youtu.be/EsJWju80vXs)
